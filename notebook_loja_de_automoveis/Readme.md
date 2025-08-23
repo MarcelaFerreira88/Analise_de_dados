@@ -1,6 +1,7 @@
 
 ## Selecionando os dados da tabela
-<img width="1026" height="319" alt="image" src="https://github.com/user-attachments/assets/3e875712-d877-4a1d-8ebe-8ac0ec002911" />
+
+<img width="368" height="289" alt="image" src="https://github.com/user-attachments/assets/b1321a1b-3e32-45a8-a465-e1c38293dfe7" />
 
 
 ## Selecionando mais de uma coluna de uma tabela 
