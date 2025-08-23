@@ -34,14 +34,12 @@
 <img width="443" height="371" alt="image" src="https://github.com/user-attachments/assets/9442f597-e12c-4449-8c4a-7556ce0912f6" />
 
 
-## Selecionando os emails dos clientes da nossa base que moram no estado de Santa Catarina 
-ou Mato Grosso do Sul
+## Selecionando os emails dos clientes da nossa base que moram no estado de Santa Catarina ou Mato Grosso do Sul
 
 <img width="438" height="364" alt="image" src="https://github.com/user-attachments/assets/733d7f36-8019-4cc5-906d-eb646c02d9b2" />
 
 
-## Selecionando os emails dos clientes da nossa base que moram no estado de Santa Catarina 
-ou Mato Grosso do Sul e que tem mais de 30 anos
+## Selecionando os emails dos clientes da nossa base que moram no estado de Santa Catarina ou Mato Grosso do Sul e que tem mais de 30 anos
 
 <img width="598" height="366" alt="image" src="https://github.com/user-attachments/assets/3340cfdc-706b-4066-b4c1-ba97b9426a8a" />
 
