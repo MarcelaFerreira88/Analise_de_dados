@@ -44,6 +44,27 @@
 <img width="598" height="366" alt="image" src="https://github.com/user-attachments/assets/3340cfdc-706b-4066-b4c1-ba97b9426a8a" />
 
 
+## Selecionando produtos da tabela products na ordem crescente com base no preço
+
+<img width="698" height="372" alt="image" src="https://github.com/user-attachments/assets/d6fa391a-3a8e-49e0-b102-33e0f57068fb" />
+
+
+## Selecionando os estados distintos da tabela customers na ordem crescente
+
+<img width="420" height="381" alt="image" src="https://github.com/user-attachments/assets/8bb8446c-c49d-45a9-b021-9d40d2275760" />
+
+
+## Selecionando as 10 primeiras linhas da tabela funnel utilizando o LIMIT
+
+<img width="1034" height="358" alt="image" src="https://github.com/user-attachments/assets/86ff636c-4f88-4d66-a7f2-665f4899f624" />
+
+
+## Selecionando os 10 produtos mais caros da tabela products com o comando LIMIT
+
+<img width="681" height="383" alt="image" src="https://github.com/user-attachments/assets/90c10fdc-eabe-4197-a1a4-863b0d756c20" />
+
+
+
 
 
 
