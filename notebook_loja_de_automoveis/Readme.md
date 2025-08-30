@@ -64,6 +64,31 @@
 <img width="681" height="383" alt="image" src="https://github.com/user-attachments/assets/90c10fdc-eabe-4197-a1a4-863b0d756c20" />
 
 
+## Criação de coluna calculada 
+
+<img width="531" height="418" alt="image" src="https://github.com/user-attachments/assets/3a13846b-30f3-4a18-97fd-8062403e8531" />
+
+ 
+## Selecionando os 10 clientes mais novos 
+
+<img width="583" height="435" alt="image" src="https://github.com/user-attachments/assets/788a287d-791d-4da3-8770-7b0e20f308dd" />
+
+
+## Criação de coluna calculada com strings
+
+<img width="646" height="367" alt="image" src="https://github.com/user-attachments/assets/e512ff06-24b5-49d7-ab0b-05ddd8fb468b" />
+
+# Uso de operadores como flag
+
+<img width="603" height="432" alt="image" src="https://github.com/user-attachments/assets/cea8c466-733d-47c5-aa67-b9085312f0e2" />
+
+
+
+
+
+
+
+
 
 
 
