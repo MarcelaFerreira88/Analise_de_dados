@@ -78,9 +78,41 @@
 
 <img width="646" height="367" alt="image" src="https://github.com/user-attachments/assets/e512ff06-24b5-49d7-ab0b-05ddd8fb468b" />
 
-# Uso de operadores como flag
+## Uso de operadores como flag
 
 <img width="603" height="432" alt="image" src="https://github.com/user-attachments/assets/cea8c466-733d-47c5-aa67-b9085312f0e2" />
+
+## Uso do comando BETWEEN 
+
+<img width="688" height="387" alt="image" src="https://github.com/user-attachments/assets/29598c8a-46c7-4de4-964f-7c7e7390a941" />
+
+## Uso do comando NOT
+
+<img width="694" height="358" alt="image" src="https://github.com/user-attachments/assets/77c07b52-e078-4543-a022-55a3f0be32d3" />
+
+## Uso do comando IN
+<img width="708" height="362" alt="image" src="https://github.com/user-attachments/assets/1c3b854a-3f63-4b85-a415-0c03843f71cc" />
+
+## Uso do comando LIKE (matchs imperfeitos)
+
+<img width="592" height="379" alt="image" src="https://github.com/user-attachments/assets/89a957d1-e540-4c2b-b5b4-ac9b56177129" />
+
+## Uso do comando ILIKE (ignora letras maiúsculas e minúsculas)
+
+<img width="555" height="379" alt="image" src="https://github.com/user-attachments/assets/8ad2eda4-e12b-4656-9d1d-edc63f1c448b" />
+
+## Uso do comando IS NULL
+
+<img width="858" height="379" alt="image" src="https://github.com/user-attachments/assets/2f4d6a09-cdad-4a26-bd1c-f7dc8dcb030c" />
+
+
+
+
+
+
+
+
+
 
 
 
