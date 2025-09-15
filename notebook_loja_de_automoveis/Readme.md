@@ -121,6 +121,26 @@
 
 <img width="735" height="273" alt="image" src="https://github.com/user-attachments/assets/9c1212f6-c0f9-4999-b6a1-0111e091d2a9" />
 
+# Usando o GROUP BY e o  ORDER BY 
+
+<img width="467" height="342" alt="image" src="https://github.com/user-attachments/assets/7d2deb2b-720c-4ef9-b336-4008de40053c" />
+
+<img width="594" height="316" alt="image" src="https://github.com/user-attachments/assets/c7545eaa-f50d-4c80-bac0-de811fd5ff49" />
+
+<img width="659" height="297" alt="image" src="https://github.com/user-attachments/assets/1c46df23-e600-49de-9b7a-142865f61148" />
+
+## Usando o HAVING
+
+<img width="572" height="350" alt="image" src="https://github.com/user-attachments/assets/32615b06-3e6f-48f0-bcf6-e49dd9a32b1d" />
+
+<img width="445" height="358" alt="image" src="https://github.com/user-attachments/assets/1f2574fd-eb8f-43d6-8ee3-132a92bc7a5d" />
+
+
+
+
+
+
+
 
 
 
