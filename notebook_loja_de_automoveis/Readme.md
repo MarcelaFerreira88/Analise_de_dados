@@ -111,6 +111,16 @@
 
 <img width="551" height="286" alt="image" src="https://github.com/user-attachments/assets/cc53caf9-5937-42ea-8ae5-cb10e2f597d0" />
 
+## COUNT (DISTINCT)
+
+<img width="627" height="263" alt="image" src="https://github.com/user-attachments/assets/d2d0121d-cf1e-4c66-ba9c-8f5a01009ff2" />
+
+## OUTRAS FUNÇÕES MAX, MIN, AVG()
+
+<img width="550" height="191" alt="image" src="https://github.com/user-attachments/assets/a522a746-14a4-4ccf-9573-6bf32f1819b7" />
+
+<img width="735" height="273" alt="image" src="https://github.com/user-attachments/assets/9c1212f6-c0f9-4999-b6a1-0111e091d2a9" />
+
 
 
 
