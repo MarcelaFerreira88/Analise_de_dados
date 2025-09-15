@@ -211,6 +211,51 @@ from sales.products
 where price = (select max(price) from sales.products)
 
 
+-- Contagem agrupada de uma coluna
+-- Calcule o nº de clientes da tabela customers por estado
+select state, count(*)
+from sales.customers
+group by state
+
+select state, count(*) as contagem
+from sales.customers
+group by state
+order by contagem desc
+
+	
+--  Contagem agrupada de várias colunas
+-- Calcule o nº de clientes por estado e status profissional 
+select state, professional_status count(*) as contagem
+from sales.customers
+group by state, professional_status 
+order by state, contagem desc
+
+
+--  Seleção de valores distintos
+-- Selecione os estados distintos na tabela customers utilizando o group by
+select distinct state
+from sales.customers
+
+select state
+from sales.customers
+group by state
+
+
+-- seleção com filtro no HAVING 
+-- Calcule o nº de clientes por estado filtrando apenas estados acima de 100 clientes
+select 
+    state, 
+    count(*)
+from sales.customers
+group by state
+having count(*)>100
+
+    state, 
+    count(*)
+from sales.customers
+group by state
+having count(*)>100 
+and state <>'MG'
 
   
 
