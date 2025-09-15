@@ -105,6 +105,16 @@
 
 <img width="858" height="379" alt="image" src="https://github.com/user-attachments/assets/2f4d6a09-cdad-4a26-bd1c-f7dc8dcb030c" />
 
+## COUNT()
+
+<img width="517" height="285" alt="image" src="https://github.com/user-attachments/assets/a4573bc1-18bc-4fdb-ab17-d46b988cfb59" />
+
+<img width="551" height="286" alt="image" src="https://github.com/user-attachments/assets/cc53caf9-5937-42ea-8ae5-cb10e2f597d0" />
+
+
+
+
+
 
 
 
