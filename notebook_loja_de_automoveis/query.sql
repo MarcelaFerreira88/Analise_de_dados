@@ -169,7 +169,7 @@ select distinct first_name
 from sales.customers
 where first_name ilike 'ana%'
 
-
+	
 --  Uso do comando IS NULL
 -- Selecionar apenas as linhas que contém nulo no campo "population" na tabela
 -- temp_tables.regions
@@ -177,6 +177,18 @@ select *
 from temp_tables.regions
 where population is null
 
+	
+-- Contagem de todas as linhas de uma tabela
+-- Conte todas as visitas realizadas ao site da empresa fictícia
+select count(*)
+from sales.funnel
+
+
+-- Contagem das linhas de uma coluna
+-- Conte todos os pagamentos registrados na tabela sales.funnel 
+
+select count (paid_date)
+from sales.funnel
 
 
 
