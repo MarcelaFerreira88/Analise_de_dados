@@ -191,6 +191,25 @@ select count (paid_date)
 from sales.funnel
 
 
+-- Contagem distinta de uma coluna
+-- Conte todos os produtos distintos visitados em jan/21
+select count(distinct product_id)
+from sales.funnel
+where visit_page_date between '2021-01-01' and '2021-01-31'
+
+
+-- Calcule o preço mínimo, máximo e médio dos productos da tabela products
+select max(price), min(price), avg(price)
+from sales.products
+	
+
+-- Informe qual é o veículo mais caro da tabela products
+select max(price) from sales.products
+
+select *
+from sales.products
+where price = (select max(price) from sales.products)
+
 
 
   
